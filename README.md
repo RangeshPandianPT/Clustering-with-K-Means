@@ -20,10 +20,16 @@ This project applies **K-Means Clustering** on the popular **Mall Customer Segme
    - The Elbow Method is used to find the optimal number of clusters (K).
    - K-Means is then fitted on the data.
    - Cluster labels are assigned to each customer.
+  
+   ---
 
-4. **Visualization**  
-   - Elbow curve to identify the best value of K.
-   - Scatter plot (via PCA) to visualize the customer segments.
+4. **Visualization**
+ 
+![Image](https://github.com/user-attachments/assets/94a3ccb4-1212-43d7-9bdf-234334b61318)
+
+![Image](https://github.com/user-attachments/assets/e79c2755-2f3b-4035-be77-bd02de8a7bb5)
+
+---
 
 5. **Evaluation**  
    - **Silhouette Score** is used to evaluate clustering quality.
